@@ -20,7 +20,8 @@ Test using [Insomnia](https://insomnia.rest/)
 
 
 [GitHub profile]
-https://github.com/sgforcert
+https://github.com/sgforcert/Social-Network-APIfor-Module18
+
 
 VIDEO :
 https://www.awesomescreenshot.com/video/32440017?key=d2b5de1d399e7611d91c0714c5bc534d
